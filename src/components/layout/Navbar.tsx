@@ -52,7 +52,7 @@ const Navbar = () => {
           {/* Social Icons */}
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/isa500s"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-lg hover:bg-secondary transition-colors"
