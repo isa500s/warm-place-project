@@ -115,7 +115,7 @@ const Navbar = () => {
                     <Github className="w-5 h-5" />
                   </a>
                   <a
-                    href="https://www.codecademy.com/profiles/yourusername"
+                    href="https://www.codecademy.com/profiles/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2 rounded-lg hover:bg-secondary transition-colors"
